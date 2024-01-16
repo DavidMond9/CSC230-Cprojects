@@ -1,0 +1,2 @@
+We're pretending this is a file that got added to the
+repo accidentally.  We can use git rm to remove it.
