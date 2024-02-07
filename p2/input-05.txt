@@ -1,0 +1,6 @@
+photon
+refrigerator
+hypothesized
+frugal
+foolishly
+A <adjective> <noun2> <verb> into a bar, <adverb> looking for a <noun1>.

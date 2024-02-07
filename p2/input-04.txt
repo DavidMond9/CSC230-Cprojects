@@ -1,0 +1,6 @@
+sasquatch
+elephant
+shopped
+complimentary
+begrudgingly
+A <adjective> <noun2> <adverb> <verb> like a <noun1>.
