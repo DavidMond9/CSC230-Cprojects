@@ -23,6 +23,6 @@ bool readLine(char line[LINE_MAX + 1]);
 /**
  * Checks to see if the character is an allowed character.
  * @param c character to be checked.
- * @return returns true if it is a valid character, false if not.
+ * @return returns true if it is a valid character, false if not
 */
 bool isAllowedCharacter(int c);

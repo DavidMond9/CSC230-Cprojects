@@ -14,7 +14,7 @@
 
 /**
  * Main function for the program. 
- * @return returns exit success if program runs successfully.
+ * @return returns exit success if program runs successfully
 */
 int main() 
 {

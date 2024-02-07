@@ -12,7 +12,7 @@ runTest() {
   ./madlib < input-$TESTNO.txt > output.txt
   STATUS=$?
 
-  # Make sure the program exited with the right exit status.
+  # Make sure the program exited with the right exit status
   if [ $STATUS -ne $ESTATUS ]; then
       echo "**** FAILED - Expected an exit status of $ESTATUS, but got: $STATUS"
       FAIL=1

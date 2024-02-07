@@ -17,7 +17,7 @@
  * if it has a match or not with the placeholder, and then branches off into different invalid checks.
  * @param line Char array that represents the line of the story.
  * @param word Char array that represents each word of the line.
- * @param placeholder Char array that represents the placeholder for the story.
+ * @param placeholder Char array that represents the placeholder for the story
 */
 void replaceWord(char line[LINE_MAX + 1], const char word[FIELD_MAX + 1], const char placeholder[]);
 
