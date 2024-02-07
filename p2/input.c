@@ -29,7 +29,9 @@ bool isAllowedCharacter(int c)
 */
 void readWord(char word[FIELD_MAX + 1]) 
 {
+    //Current Character
     int c;
+    //Index of word char array
     int idx = 0;
     //For lines with extra spaces
     bool hasNonSpace = false;
@@ -62,7 +64,9 @@ void readWord(char word[FIELD_MAX + 1])
 */
 bool readLine(char line[LINE_MAX + 1]) 
 {
+    //Index of line char array
     int idx = 0;
+    //Current character
     int c = getchar();
     //Case where the end of file is reached, and no characters are read
     if (c == EOF) {

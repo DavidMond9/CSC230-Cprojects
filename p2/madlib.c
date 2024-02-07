@@ -18,10 +18,15 @@
 */
 int main() 
 {
+    //Char array for the first noun
     char noun1[FIELD_MAX + 1];
+    //Char array for the second noun
     char noun2[FIELD_MAX + 1];
+    //Char array for the verb
     char verb[FIELD_MAX + 1];
+    //Char array for the adjective
     char adjective[FIELD_MAX + 1];
+    //Char array for the adverb
     char adverb[FIELD_MAX + 1];
     //Read in the noun1
     readWord(noun1);
@@ -33,16 +38,21 @@ int main()
     readWord(adjective);
     //Read in the adverb
     readWord(adverb);
+    //Length of first noun
     int lengthNoun1 = strlen(noun1);
+    //Length of second noun
     int lengthNoun2 = strlen(noun2);
+    //Length of verb
     int lengthVerb = strlen(verb);
+    //Length of adjective
     int lengthAdjective = strlen(adjective);
+    //Length of adverb
     int lengthAdverb = strlen(adverb);
     //If any of the words were not read in, exit101
     if(lengthNoun1 == 0 || lengthNoun2 == 0 || lengthVerb == 0 || lengthAdjective == 0 || lengthAdverb == 0){
         exit(101);
     }
-
+    //Char array for the current line
     char line[LINE_MAX + 1];
     //While the line can be read in  
     while (readLine(line)) {

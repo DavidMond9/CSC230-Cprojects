@@ -21,11 +21,15 @@
 */
 void replaceWord(char line[LINE_MAX + 1], const char word[FIELD_MAX + 1], const char placeholder[]) 
 {
+    //Length of the current line
     int lineLength = strlen(line);
+    //Length of the current word
     int wordLength = strlen(word);
+    //Length of the place holder
     int placeholderLength = strlen(placeholder);
-
+    //Result char array for the replaced word.
     char result[LINE_MAX + 1];
+    //Index for the replacement
     int resultIndex = 0;
     //If total length is greater than max, exit
     if (lineLength + wordLength - placeholderLength > LINE_MAX) {
@@ -33,7 +37,7 @@ void replaceWord(char line[LINE_MAX + 1], const char word[FIELD_MAX + 1], const 
     }
 
     for (int i = 0; i < lineLength; i++) {
-        //Default the match to false
+        //Match variable, default it to false
         int match = 1;
 
         //Check if the placeholder matches starting from the current position
@@ -50,6 +54,7 @@ void replaceWord(char line[LINE_MAX + 1], const char word[FIELD_MAX + 1], const 
                 exit(103);
             }
             //Check if the placeholder is followed by spaces or the end of the line
+            //Variable k to check for exit conditions
             int k;
             for (k = i + placeholderLength; k < lineLength; k++) {
                 if (line[k] != ' ') {
@@ -90,8 +95,11 @@ void replaceWord(char line[LINE_MAX + 1], const char word[FIELD_MAX + 1], const 
 */
 bool computeLen(char line[LINE_MAX + 1], char word[FIELD_MAX + 1], char placeholder[])
 {
+    //Length of the line
     int lengthLine = strlen(line);
+    //Length of the word
     int lengthWord = strlen(word);
+    //Length of the placeholder
     int lengthPlace = strlen(placeholder);
 
     //Total length
