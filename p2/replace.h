@@ -26,7 +26,7 @@ void replaceWord(char line[LINE_MAX + 1], const char word[FIELD_MAX + 1], const 
  * @param line char array to represent the line
  * @param word char array to represent the word
  * @param placeholder char array to represent the placeholder
- * @return returns true if length is valid, false if length is greater than line max.
+ * @return returns true if length is valid, false if length is greater than line max
 */
 bool computeLen(char line[LINE_MAX + 1], char word[FIELD_MAX + 1], char placeholder[]);
 
