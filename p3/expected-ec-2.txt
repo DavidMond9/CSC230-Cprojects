@@ -1,0 +1,3 @@
+S1: F
+S2: CCCA
+S3: EES

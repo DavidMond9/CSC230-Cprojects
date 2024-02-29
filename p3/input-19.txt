@@ -1,0 +1,10 @@
+BA + CA DA;
+BA +
+CA +
+DA ;
+BB % CC * DD - EE;
+T + TT - * TTT / T;
+1 + 2;
+a = B;
+b = a = C;
+MISSING + STMT + TERMINATOR

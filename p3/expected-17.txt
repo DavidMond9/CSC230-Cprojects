@@ -1,0 +1,6 @@
+S1: C
+S2: invalid
+S3: invalid
+S4: invalid
+S5: invalid
+S6: C

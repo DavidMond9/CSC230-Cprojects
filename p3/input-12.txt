@@ -1,0 +1,9 @@
+x = B;
+x = x + B;
+x;
+x = x * C + B;
+x;
+x = x * x + BA;
+x;
+x = x / C;
+x;

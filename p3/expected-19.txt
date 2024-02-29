@@ -1,0 +1,7 @@
+S1: invalid
+S2: GA
+S3: invalid
+S4: invalid
+S5: invalid
+S7: invalid
+S8: invalid
