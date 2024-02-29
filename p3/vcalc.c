@@ -86,13 +86,13 @@ bool parseOperand(long *val, char *vname, FILE *input)
 */
 bool parseExpression(long *result, long left, FILE *input) 
 {
-    /** Store first operand.*/
+    // Store first operand.
     long currentOperand = left;  
-    /** New long to help with result*/
+    // New long to help with result
     long val = 0;
-    /** Variable name for assignments.*/
+    // Variable name for assignments.
     char vname;
-    /** Variable to track if operator has been read.*/
+    // Variable to track if operator has been read.
     char op = 0;
     // Sets result to the first operand
     *result = currentOperand;
@@ -173,11 +173,11 @@ bool parseExpression(long *result, long left, FILE *input)
 */
 bool parseStatement(int stmtNum, FILE *input, FILE *output) 
 {
-    /** Value to store the result.*/
+    // Value to store the result.
     long val;
-    /** Initliaze variable name to null, can change later.*/
+    // Initliaze variable name to null, can change later.
     char vname = '\0';
-    /** No variable read in yet, set to false.*/
+    // No variable read in yet, set to false.
     bool isVariable = false;
 
     //Attempt to parse the first operand, which could be a number or a variable name
