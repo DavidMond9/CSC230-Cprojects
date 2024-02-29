@@ -29,14 +29,14 @@ bool add(long *result, long a, long b)
  * @param result Pointer to get the value of the subtraction.
  * @param a Value 1 being subracted.
  * @param b Value 2 being subtracted.
- * @return returns true if successfully subtracted, false if not
+ * @return returns true if successfully subtracted, false if not 
 */
 bool subtract(long *result, long a, long b)
 {
     if (((b < 0) && (a > LONG_MIN + b)) || 
         ((b > 0) && (a < LONG_MIN + b))) { 
         return false;
-    }
+    } 
     *result = a - b;
     return true;
 }

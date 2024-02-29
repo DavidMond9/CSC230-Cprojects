@@ -8,7 +8,7 @@
 // The prototypes need the bool and FILE types.
 #include <stdio.h>
 #include <stdbool.h>
-#include "check.h"
+#include "check.h"  
 /**
  * Reads the next character and skips the whitespace.
  * @param input Pointer to an input file to read in from.

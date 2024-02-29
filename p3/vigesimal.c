@@ -76,7 +76,7 @@ bool parseNumber(long *val, FILE *input)
 }
 
 /**
- * Prints a number and converts it from Base 10 to Base 20.
+ * Prints a number and converts it from Base 10 to Base 20.  
  * @param val Long value that keeps track of the conversion
  * @param output Pointer to the output file which we will print to.
 */

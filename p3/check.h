@@ -12,7 +12,7 @@
  * @param result Pointer to get the value of the addition.
  * @param a Value 1 being added.
  * @param b Value 2 being added.
- * @return returns true if successfully added, false if not
+ * @return returns true if successfully added, false if not  
 */
 bool add(long *result, long a, long b);
 /**

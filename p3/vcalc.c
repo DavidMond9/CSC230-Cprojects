@@ -16,16 +16,19 @@
 #include <ctype.h>
 
 /** Input-file argument */
-#define INPUT_ARG 1
+#define INPUT_ARG 1  
 
 /** Output-file argument */
 #define OUTPUT_ARG 2
+
+/** Length of variables array */
+#define LENGTH 26
 
 /**
  * Global long array to store variables 'a' to 'z'. Default all the values
  * to 0.
 */
-long variables[26] = {0}; 
+long variables[LENGTH] = {0}; 
 
 /**
  * Used for informing the user about command line, used in the main() method, prints out to stderr.
