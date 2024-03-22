@@ -1,7 +1,7 @@
 /**
  * @file inventory.c
  * @author David Mond (dmmond)
- * Contains all commands for record and inventory, stores the 
+ * Contains all commands for record and inventory, helps create inventory and records, sort, list, and read in inventory and records.
 */
 
 #include "inventory.h"
@@ -19,6 +19,8 @@
 #define LTITLEARTIST 30
 //Multiplier to make array bigger
 #define CAPACITYMULTIPLIER 2
+//Matcher for input values
+#define THREE 3
 
 /**
 * Create a new inventory and records using dynamic memory
@@ -76,7 +78,7 @@ void readRecords(const char *filename, Inventory *inventory) {
         }
 
         //Read the ID, genre, and copies from the line buffer.
-        if (sscanf(lineBuffer, "%d %12s %d", &newRecord->id, newRecord->genre, &newRecord->copies) != 3) {
+        if (sscanf(lineBuffer, "%d %12s %d", &newRecord->id, newRecord->genre, &newRecord->copies) != THREE) {
             //The line doesn't match the expected format.
             fprintf(stderr, "Invalid record file: %s\n", filename);
             free(newRecord);
