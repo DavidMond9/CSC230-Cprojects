@@ -1,0 +1,16 @@
+cmd> add 589 1
+
+cmd> add 289 1
+
+cmd> add 406 3
+
+cmd> remove 289 1
+
+cmd> remove 406 1
+
+cmd> list order
+ID  Artist                         Title                          Genre        Copies
+589 Ateez                          Bouncy                         kpop              1
+406 Mac Miller                     Swimming                       rap               2
+
+cmd> quit

@@ -1,0 +1,16 @@
+cmd> search artist thisistootoolong
+Invalid command
+
+cmd> search artist
+Invalid command
+
+cmd> search genre rock
+Invalid command
+
+cmd> search title
+Invalid command
+
+cmd> search title thisistootoolong
+Invalid command
+
+cmd> quit

@@ -1,0 +1,18 @@
+cmd> list
+ID  Artist                         Title                          Genre        Copies
+244 Taylor Swift                   New Romantics                  pop              22
+349 Taylor Swift                   New Romantics                  pop              22
+455 Weather Report                 Heavy Weather                  jazz              5
+632 Billy Joel                     We Didn't Start the Fire       pop               7
+657 Taylor Swift                   Folklore                       alternative       7
+690 Hudson Mohawke                 Cbat                           EDM               4
+756 Kanye West                     On Sight                       hip-hop           3
+834 Rick Astley                    Never Gonna Give You Up        pop              15
+894 Led Zeppelin                   Physical Graffiti              rock             10
+910 The Weeknd                     Popular                        rap               5
+912 Daniel Caesar                  Take Me Away                   r&b               4
+923 Michael Jackson                Billie Jean                    pop               3
+987 Foo Fighters                   Echoes,Silence,Patience&Grace  rock             11
+988 Foo Fighters                   The Pretender                  rock              3
+
+cmd> quit

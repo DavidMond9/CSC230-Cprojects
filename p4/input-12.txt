@@ -1,0 +1,12 @@
+add 123 2
+add 740 3
+add 455 3
+remove 740 1
+add 123 1
+add 741 2
+remove 741 2
+add 898 2
+list order
+checkout
+list order
+quit

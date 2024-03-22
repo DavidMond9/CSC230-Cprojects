@@ -1,0 +1,18 @@
+cmd> search artist Led
+ID  Artist                         Title                          Genre        Copies
+894 Led Zeppelin                   Physical Graffiti              rock             10
+
+cmd> list genre rock
+ID  Artist                         Title                          Genre        Copies
+987 Foo Fighters                   Echoes,Silence,Patience&Grace  rock             11
+988 Foo Fighters                   The Pretender                  rock              3
+894 Led Zeppelin                   Physical Graffiti              rock             10
+
+cmd> search title Gonna
+ID  Artist                         Title                          Genre        Copies
+834 Rick Astley                    Never Gonna Give You Up        pop              15
+
+cmd> search artist led
+ID  Artist                         Title                          Genre        Copies
+
+cmd> quit

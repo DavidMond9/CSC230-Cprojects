@@ -1,0 +1,45 @@
+912 r&b 4
+Daniel Caesar
+Take Me Away
+923 pop 3
+Michael Jackson
+Billie Jean
+987 rock 11
+Foo Fighters
+Echoes,Silence,Patience&Grace
+988 rock 3
+Foo Fighters
+The Pretender
+657 alternative 2
+Taylor Swift
+Folklore
+632 pop 7
+Billy Joel
+We Didn't Start the Fire
+690 EDM 4
+Hudson Mohawke
+Cbat
+657 alternative 5
+Taylor Swift
+Folklore
+834 pop 15
+Rick Astley
+Never Gonna Give You Up
+756 hip-hop 3
+Kanye West
+On Sight
+244 pop 22
+Taylor Swift
+New Romantics
+910 rap 5
+The Weeknd
+Popular
+894 rock 10
+Led Zeppelin
+Physical Graffiti
+455 jazz 5
+Weather Report
+Heavy Weather
+349 pop 22
+Taylor Swift
+New Romantics

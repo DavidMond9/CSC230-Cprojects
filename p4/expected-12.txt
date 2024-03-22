@@ -1,0 +1,29 @@
+cmd> add 123 2
+
+cmd> add 740 3
+
+cmd> add 455 3
+
+cmd> remove 740 1
+
+cmd> add 123 1
+
+cmd> add 741 2
+
+cmd> remove 741 2
+
+cmd> add 898 2
+
+cmd> list order
+ID  Artist                         Title                          Genre        Copies
+123 wImPI kEzIWlURkp               IhXyCnHgWkVXIVMOgsHWAVbBz      nRwZl             3
+740 IJAaceuREASQjQjubVnthu         gMDwsGOxGnZhsRmqDpRhBVM        BYVzhVPhDjRw      2
+455 QzKpUOmxVkX                    iChsiXybfiOqe UCofcj fISIXOA   OOrul             3
+898 oVsTYUMiOnoiv                  lNjXOcpPADnMDUXvrDDYq          SCDHnKoEGpa       2
+
+cmd> checkout
+
+cmd> list order
+ID  Artist                         Title                          Genre        Copies
+
+cmd> quit

@@ -1,0 +1,9 @@
+cmd> list
+ID  Artist                         Title                          Genre        Copies
+145 Daft Punk                      Discovery                      electronic        6
+289 Foo Fighters                   Everlong                       rock              2
+340 Playboi Carti                  Die Lit                        rap               9
+467 Queen                          Don't Stop Me Now              rock              3
+589 Ateez                          Bouncy                         kpop              1
+
+cmd> 

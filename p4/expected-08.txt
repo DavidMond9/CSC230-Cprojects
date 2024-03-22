@@ -1,0 +1,69 @@
+cmd> list
+ID  Artist                         Title                          Genre        Copies
+123 Kodak Black                    Transportin'                   rap              11
+145 Daft Punk                      Discovery                      electronic        6
+184 Playboi Carti                  Vamp Anthem                    rap               4
+193 Billie Eilish                  Happier Than Ever              pop               2
+254 Chief Keef                     Bang 3, Part 2                 rap               8
+255 Chief Keef                     I Don't Know Dem               rap               7
+289 Foo Fighters                   Everlong                       rock              2
+340 Playboi Carti                  Die Lit                        rap               9
+367 Aileron                        Quantum White                  indie             6
+406 Mac Miller                     Swimming                       rap               8
+455 Weather Report                 Heavy Weather                  jazz              3
+467 Queen                          Don't Stop Me Now              rock              3
+564 Passion Pit                    The Reeling                    indie             4
+589 Ateez                          Bouncy                         kpop              1
+678 DaBaby                         Bop                            rap               5
+740 Taylor Swift                   Long Live                      pop              15
+741 Lyn Lapid                      The Alternative                pop              12
+798 Kanye West                     Barry Bonds                    rap               2
+888 Journey                        Separate Ways                  rock              0
+898 Billy Joel                     Piano Man                      rock             14
+899 Mac Miller                     GO:OD AM                       rap               2
+
+cmd> add 589 1
+
+cmd> add 289 1
+
+cmd> add 406 3
+
+cmd> remove 289 1
+
+cmd> remove 406 1
+
+cmd> list order
+ID  Artist                         Title                          Genre        Copies
+589 Ateez                          Bouncy                         kpop              1
+406 Mac Miller                     Swimming                       rap               2
+
+cmd> checkout
+
+cmd> list order
+ID  Artist                         Title                          Genre        Copies
+
+cmd> list
+ID  Artist                         Title                          Genre        Copies
+123 Kodak Black                    Transportin'                   rap              11
+145 Daft Punk                      Discovery                      electronic        6
+184 Playboi Carti                  Vamp Anthem                    rap               4
+193 Billie Eilish                  Happier Than Ever              pop               2
+254 Chief Keef                     Bang 3, Part 2                 rap               8
+255 Chief Keef                     I Don't Know Dem               rap               7
+289 Foo Fighters                   Everlong                       rock              2
+340 Playboi Carti                  Die Lit                        rap               9
+367 Aileron                        Quantum White                  indie             6
+406 Mac Miller                     Swimming                       rap               6
+455 Weather Report                 Heavy Weather                  jazz              3
+467 Queen                          Don't Stop Me Now              rock              3
+564 Passion Pit                    The Reeling                    indie             4
+589 Ateez                          Bouncy                         kpop              0
+678 DaBaby                         Bop                            rap               5
+740 Taylor Swift                   Long Live                      pop              15
+741 Lyn Lapid                      The Alternative                pop              12
+798 Kanye West                     Barry Bonds                    rap               2
+888 Journey                        Separate Ways                  rock              0
+898 Billy Joel                     Piano Man                      rock             14
+899 Mac Miller                     GO:OD AM                       rap               2
+
+cmd> quit

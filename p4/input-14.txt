@@ -1,0 +1,25 @@
+list
+add 798 2
+add 740 20
+add 690 3
+add 123 1
+remove 740 1
+list general r&b
+list order
+list genre kpop
+list
+list genre electronic
+list genre notagenre
+add 912
+add 123 1
+add 988 1
+add 632 1
+add 657 1
+list order
+add 299 1
+add 455 1
+add 349 1
+list order
+checkout
+list order
+quit

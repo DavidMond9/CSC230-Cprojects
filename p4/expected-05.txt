@@ -1,0 +1,8 @@
+cmd> list genre rock
+ID  Artist                         Title                          Genre        Copies
+898 Billy Joel                     Piano Man                      rock             14
+289 Foo Fighters                   Everlong                       rock              2
+888 Journey                        Separate Ways                  rock              0
+467 Queen                          Don't Stop Me Now              rock              3
+
+cmd> quit

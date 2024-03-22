@@ -1,0 +1,97 @@
+cmd> list
+ID  Artist                         Title                          Genre        Copies
+123 Kodak Black                    Transportin'                   rap              11
+145 Daft Punk                      Discovery                      electronic        6
+184 Playboi Carti                  Vamp Anthem                    rap               4
+193 Billie Eilish                  Happier Than Ever              pop               2
+254 Chief Keef                     Bang 3, Part 2                 rap               8
+255 Chief Keef                     I Don't Know Dem               rap               7
+289 Foo Fighters                   Everlong                       rock              2
+340 Playboi Carti                  Die Lit                        rap               9
+367 Aileron                        Quantum White                  indie             6
+406 Mac Miller                     Swimming                       rap               8
+455 Weather Report                 Heavy Weather                  jazz              3
+467 Queen                          Don't Stop Me Now              rock              3
+564 Passion Pit                    The Reeling                    indie             4
+589 Ateez                          Bouncy                         kpop              1
+678 DaBaby                         Bop                            rap               5
+740 Taylor Swift                   Long Live                      pop              15
+741 Lyn Lapid                      The Alternative                pop              12
+798 Kanye West                     Barry Bonds                    rap               2
+888 Journey                        Separate Ways                  rock              0
+898 Billy Joel                     Piano Man                      rock             14
+899 Mac Miller                     GO:OD AM                       rap               2
+
+cmd> list genre rap
+ID  Artist                         Title                          Genre        Copies
+254 Chief Keef                     Bang 3, Part 2                 rap               8
+255 Chief Keef                     I Don't Know Dem               rap               7
+678 DaBaby                         Bop                            rap               5
+798 Kanye West                     Barry Bonds                    rap               2
+123 Kodak Black                    Transportin'                   rap              11
+899 Mac Miller                     GO:OD AM                       rap               2
+406 Mac Miller                     Swimming                       rap               8
+340 Playboi Carti                  Die Lit                        rap               9
+184 Playboi Carti                  Vamp Anthem                    rap               4
+
+cmd> add 123 2
+
+cmd> add 740 3
+
+cmd> add 455 3
+
+cmd> add 123 1
+
+cmd> add 898 2
+
+cmd> add 741 2
+
+cmd> list order
+ID  Artist                         Title                          Genre        Copies
+123 Kodak Black                    Transportin'                   rap               3
+740 Taylor Swift                   Long Live                      pop               3
+455 Weather Report                 Heavy Weather                  jazz              3
+898 Billy Joel                     Piano Man                      rock              2
+741 Lyn Lapid                      The Alternative                pop               2
+
+cmd> remove 740 1
+
+cmd> remove 741 2
+
+cmd> list order
+ID  Artist                         Title                          Genre        Copies
+123 Kodak Black                    Transportin'                   rap               3
+740 Taylor Swift                   Long Live                      pop               2
+455 Weather Report                 Heavy Weather                  jazz              3
+898 Billy Joel                     Piano Man                      rock              2
+
+cmd> checkout
+
+cmd> list order
+ID  Artist                         Title                          Genre        Copies
+
+cmd> list
+ID  Artist                         Title                          Genre        Copies
+123 Kodak Black                    Transportin'                   rap               8
+145 Daft Punk                      Discovery                      electronic        6
+184 Playboi Carti                  Vamp Anthem                    rap               4
+193 Billie Eilish                  Happier Than Ever              pop               2
+254 Chief Keef                     Bang 3, Part 2                 rap               8
+255 Chief Keef                     I Don't Know Dem               rap               7
+289 Foo Fighters                   Everlong                       rock              2
+340 Playboi Carti                  Die Lit                        rap               9
+367 Aileron                        Quantum White                  indie             6
+406 Mac Miller                     Swimming                       rap               8
+455 Weather Report                 Heavy Weather                  jazz              0
+467 Queen                          Don't Stop Me Now              rock              3
+564 Passion Pit                    The Reeling                    indie             4
+589 Ateez                          Bouncy                         kpop              1
+678 DaBaby                         Bop                            rap               5
+740 Taylor Swift                   Long Live                      pop              13
+741 Lyn Lapid                      The Alternative                pop              12
+798 Kanye West                     Barry Bonds                    rap               2
+888 Journey                        Separate Ways                  rock              0
+898 Billy Joel                     Piano Man                      rock             12
+899 Mac Miller                     GO:OD AM                       rap               2
+
+cmd> quit

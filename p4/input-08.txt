@@ -1,0 +1,11 @@
+list
+add 589 1
+add 289 1
+add 406 3
+remove 289 1
+remove 406 1
+list order
+checkout
+list order
+list
+quit

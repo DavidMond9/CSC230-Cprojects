@@ -1,0 +1,5 @@
+add 589 1
+add 289 1
+add 406 3
+list order
+quit

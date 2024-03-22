@@ -1,0 +1,12 @@
+cmd> search title an
+ID  Artist                         Title                          Genre        Copies
+123 Kodak Black                    Transportin'                   rap              11
+193 Billie Eilish                  Happier Than Ever              pop               2
+244 Taylor Swift                   New Romantics                  pop              22
+254 Chief Keef                     Bang 3, Part 2                 rap               8
+349 Taylor Swift                   New Romantics                  pop              22
+367 Aileron                        Quantum White                  indie             6
+898 Billy Joel                     Piano Man                      rock             14
+923 Michael Jackson                Billie Jean                    pop               3
+
+cmd> quit

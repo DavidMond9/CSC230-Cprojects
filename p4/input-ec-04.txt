@@ -1,0 +1,6 @@
+search artist thisistootoolong
+search artist
+search genre rock
+search title
+search title thisistootoolong
+quit

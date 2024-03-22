@@ -1,0 +1,7 @@
+cmd> search artist Swift
+ID  Artist                         Title                          Genre        Copies
+244 Taylor Swift                   New Romantics                  pop              22
+349 Taylor Swift                   New Romantics                  pop              22
+657 Taylor Swift                   Folklore                       alternative       7
+
+cmd> quit

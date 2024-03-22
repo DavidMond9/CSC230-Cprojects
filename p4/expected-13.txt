@@ -1,0 +1,155 @@
+cmd> list
+ID  Artist                         Title                          Genre        Copies
+123 Kodak Black                    Transportin'                   rap              11
+145 Daft Punk                      Discovery                      electronic        6
+184 Playboi Carti                  Vamp Anthem                    rap               4
+193 Billie Eilish                  Happier Than Ever              pop               2
+244 Taylor Swift                   New Romantics                  pop              22
+254 Chief Keef                     Bang 3, Part 2                 rap               8
+255 Chief Keef                     I Don't Know Dem               rap               7
+256 The Beatles                    A Hard Day's Night             rock              5
+289 Foo Fighters                   Everlong                       rock              2
+340 Playboi Carti                  Die Lit                        rap               9
+349 Taylor Swift                   New Romantics                  pop              22
+367 Aileron                        Quantum White                  indie             6
+406 Mac Miller                     Swimming                       rap               8
+455 Weather Report                 Heavy Weather                  jazz              8
+467 Queen                          Don't Stop Me Now              rock              3
+564 Passion Pit                    The Reeling                    indie             4
+589 Ateez                          Bouncy                         kpop              1
+632 Billy Joel                     We Didn't Start the Fire       pop               7
+657 Taylor Swift                   Folklore                       alternative       7
+678 DaBaby                         Bop                            rap               5
+690 Hudson Mohawke                 Cbat                           EDM               4
+740 Taylor Swift                   Long Live                      pop              15
+741 Lyn Lapid                      The Alternative                pop              12
+756 Kanye West                     On Sight                       hip-hop           3
+798 Kanye West                     Barry Bonds                    rap               2
+834 Rick Astley                    Never Gonna Give You Up        pop              15
+888 Journey                        Separate Ways                  rock              0
+894 Led Zeppelin                   Physical Graffiti              rock             10
+898 Billy Joel                     Piano Man                      rock             14
+899 Mac Miller                     GO:OD AM                       rap               2
+910 The Weeknd                     Popular                        rap               5
+912 Daniel Caesar                  Take Me Away                   r&b               4
+923 Michael Jackson                Billie Jean                    pop               3
+987 Foo Fighters                   Echoes,Silence,Patience&Grace  rock             11
+988 Foo Fighters                   The Pretender                  rock              3
+
+cmd> add 798 2
+
+cmd> add 740 3
+
+cmd> add 690 3
+
+cmd> add 123 1
+
+cmd> remove 740 1
+
+cmd> list genre r&b
+ID  Artist                         Title                          Genre        Copies
+912 Daniel Caesar                  Take Me Away                   r&b               4
+
+cmd> list order
+ID  Artist                         Title                          Genre        Copies
+798 Kanye West                     Barry Bonds                    rap               2
+740 Taylor Swift                   Long Live                      pop               2
+690 Hudson Mohawke                 Cbat                           EDM               3
+123 Kodak Black                    Transportin'                   rap               1
+
+cmd> list genre kpop
+ID  Artist                         Title                          Genre        Copies
+589 Ateez                          Bouncy                         kpop              1
+
+cmd> list
+ID  Artist                         Title                          Genre        Copies
+123 Kodak Black                    Transportin'                   rap              11
+145 Daft Punk                      Discovery                      electronic        6
+184 Playboi Carti                  Vamp Anthem                    rap               4
+193 Billie Eilish                  Happier Than Ever              pop               2
+244 Taylor Swift                   New Romantics                  pop              22
+254 Chief Keef                     Bang 3, Part 2                 rap               8
+255 Chief Keef                     I Don't Know Dem               rap               7
+256 The Beatles                    A Hard Day's Night             rock              5
+289 Foo Fighters                   Everlong                       rock              2
+340 Playboi Carti                  Die Lit                        rap               9
+349 Taylor Swift                   New Romantics                  pop              22
+367 Aileron                        Quantum White                  indie             6
+406 Mac Miller                     Swimming                       rap               8
+455 Weather Report                 Heavy Weather                  jazz              8
+467 Queen                          Don't Stop Me Now              rock              3
+564 Passion Pit                    The Reeling                    indie             4
+589 Ateez                          Bouncy                         kpop              1
+632 Billy Joel                     We Didn't Start the Fire       pop               7
+657 Taylor Swift                   Folklore                       alternative       7
+678 DaBaby                         Bop                            rap               5
+690 Hudson Mohawke                 Cbat                           EDM               4
+740 Taylor Swift                   Long Live                      pop              15
+741 Lyn Lapid                      The Alternative                pop              12
+756 Kanye West                     On Sight                       hip-hop           3
+798 Kanye West                     Barry Bonds                    rap               2
+834 Rick Astley                    Never Gonna Give You Up        pop              15
+888 Journey                        Separate Ways                  rock              0
+894 Led Zeppelin                   Physical Graffiti              rock             10
+898 Billy Joel                     Piano Man                      rock             14
+899 Mac Miller                     GO:OD AM                       rap               2
+910 The Weeknd                     Popular                        rap               5
+912 Daniel Caesar                  Take Me Away                   r&b               4
+923 Michael Jackson                Billie Jean                    pop               3
+987 Foo Fighters                   Echoes,Silence,Patience&Grace  rock             11
+988 Foo Fighters                   The Pretender                  rock              3
+
+cmd> list genre electronic
+ID  Artist                         Title                          Genre        Copies
+145 Daft Punk                      Discovery                      electronic        6
+
+cmd> list genre notagenre
+ID  Artist                         Title                          Genre        Copies
+
+cmd> add 912 1
+
+cmd> add 123 1
+
+cmd> add 988 1
+
+cmd> add 632 1
+
+cmd> add 657 1
+
+cmd> list order
+ID  Artist                         Title                          Genre        Copies
+798 Kanye West                     Barry Bonds                    rap               2
+740 Taylor Swift                   Long Live                      pop               2
+690 Hudson Mohawke                 Cbat                           EDM               3
+123 Kodak Black                    Transportin'                   rap               2
+912 Daniel Caesar                  Take Me Away                   r&b               1
+988 Foo Fighters                   The Pretender                  rock              1
+632 Billy Joel                     We Didn't Start the Fire       pop               1
+657 Taylor Swift                   Folklore                       alternative       1
+
+cmd> add 756 1
+
+cmd> add 455 1
+
+cmd> add 349 1
+
+cmd> list order
+ID  Artist                         Title                          Genre        Copies
+798 Kanye West                     Barry Bonds                    rap               2
+740 Taylor Swift                   Long Live                      pop               2
+690 Hudson Mohawke                 Cbat                           EDM               3
+123 Kodak Black                    Transportin'                   rap               2
+912 Daniel Caesar                  Take Me Away                   r&b               1
+988 Foo Fighters                   The Pretender                  rock              1
+632 Billy Joel                     We Didn't Start the Fire       pop               1
+657 Taylor Swift                   Folklore                       alternative       1
+756 Kanye West                     On Sight                       hip-hop           1
+455 Weather Report                 Heavy Weather                  jazz              1
+349 Taylor Swift                   New Romantics                  pop               1
+
+cmd> checkout
+
+cmd> list order
+ID  Artist                         Title                          Genre        Copies
+
+cmd> quit

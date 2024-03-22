@@ -1,0 +1,13 @@
+cmd> add 589 1
+
+cmd> add 289 1
+
+cmd> add 406 3
+
+cmd> list order
+ID  Artist                         Title                          Genre        Copies
+589 Ateez                          Bouncy                         kpop              1
+289 Foo Fighters                   Everlong                       rock              1
+406 Mac Miller                     Swimming                       rap               3
+
+cmd> quit

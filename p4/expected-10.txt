@@ -1,0 +1,13 @@
+cmd> list genre XnxsD
+ID  Artist                         Title                          Genre        Copies
+955 DPMwjoUSGTg ry                 RoIADwNyAtU tOX                XnxsD            76
+
+cmd> list genre hWseqXDGiJ
+ID  Artist                         Title                          Genre        Copies
+938 tG iqkPhpJop                   bSVJjMIuyZJONehXzqVyK          hWseqXDGiJ       99
+
+cmd> list genre NpQtvrP
+ID  Artist                         Title                          Genre        Copies
+911 IWJlFRhQnSXiK                  baznSYkjqShaivroAVlFpR         NpQtvrP          45
+
+cmd> quit
