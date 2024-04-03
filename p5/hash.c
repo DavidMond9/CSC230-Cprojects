@@ -28,7 +28,7 @@ int main(int argc, char *argv[])
     }
 
     // Determine input source
-    FILE *file = argc == 2 ? fopen(argv[1], "rb") : stdin;
+    FILE *file = argc == TWO ? fopen(argv[1], "rb") : stdin;
     if (!file) {
         fprintf(stderr, "missing-input-file.txt: No such file or directory\n");
         freeState(state);

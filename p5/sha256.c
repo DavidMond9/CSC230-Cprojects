@@ -231,7 +231,7 @@ void digest(SHAState *state, word hash[HASH_WORDS])
     }
 
     // Pad with zeros up to the last 8 bytes
-    while (state->pcount < BLOCK_SIZE - 8) {
+    while (state->pcount < BLOCK_SIZE - EIGHT) {
         state->pending[state->pcount++] = 0x00;
     }
 
