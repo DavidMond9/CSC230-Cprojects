@@ -1,0 +1,19 @@
+set empty ""
+plus empty "nonempty"
+get empty
+plus empty 123
+get empty
+set doubleValue "   123.45"
+get doubleValue
+plus doubleValue 5
+set doubleValue "123.45   "
+get doubleValue
+plus doubleValue 5.3
+set doubleValue "   123.45   "
+get doubleValue
+plus doubleValue "error"
+set intValue "10"
+get intValue
+plus intValue 5
+plus intValue "not an int"
+quit

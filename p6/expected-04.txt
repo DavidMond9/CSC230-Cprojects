@@ -1,0 +1,21 @@
+cmd> set a 5
+
+cmd> set b 10
+
+cmd> get a
+5
+
+cmd> get b
+10
+
+cmd> plus a 1
+
+cmd> plus b 2
+
+cmd> get a
+6
+
+cmd> get b
+12
+
+cmd> quit

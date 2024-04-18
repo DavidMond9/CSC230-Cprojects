@@ -1,0 +1,18 @@
+cmd> set a "word"
+
+cmd> plus a -5
+
+cmd> get a
+"word-5"
+
+cmd> plus a 0.1
+
+cmd> get a
+"word-50.100000"
+
+cmd> set b -1
+
+cmd> plus b "word"
+invalid
+
+cmd> quit

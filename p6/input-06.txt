@@ -1,0 +1,7 @@
+set red 3.1
+set green 4.2
+set blue 5.3
+get red
+get green
+get blue
+quit

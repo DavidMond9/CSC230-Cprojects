@@ -1,0 +1,12 @@
+set score 35
+set name "Will"
+set temperature 72.3
+size
+get score
+plus score 2
+get score
+plus name "iam"
+get name
+remove temperature
+size
+quit

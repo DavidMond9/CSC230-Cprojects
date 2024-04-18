@@ -1,0 +1,9 @@
+set a 5
+set b 10
+get a
+get b
+plus a 1
+plus b 2
+get a
+get b
+quit

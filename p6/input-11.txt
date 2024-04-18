@@ -1,0 +1,5 @@
+set x "test"
+get y
+get x extra garbage
+set az 1
+quit

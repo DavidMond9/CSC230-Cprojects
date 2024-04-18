@@ -1,0 +1,15 @@
+# Executables and output files for this particular program.
+driver
+integerTest
+doubleTest
+stringTest
+mapTest
+mapECTest
+output.txt
+stderr.txt
+
+# Temporary files created by gcov
+*.gcda
+*.gcno
+*.gcov
+

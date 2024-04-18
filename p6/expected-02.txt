@@ -1,0 +1,6 @@
+cmd> set x 5
+
+cmd> size
+1
+
+cmd> quit

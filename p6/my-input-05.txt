@@ -1,0 +1,9 @@
+set str "hello"
+plus str " world"
+get str
+set str2 "!!"
+plus str str2
+get str
+set str3 "bad"string"
+get str3
+quit

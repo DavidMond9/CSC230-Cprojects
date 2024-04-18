@@ -1,0 +1,29 @@
+set "  keyWithLeadingSpace" "  valueWithLeadingSpace"
+get "  keyWithLeadingSpace"
+set "keyWithTrailingSpace  " "valueWithTrailingSpace  "
+get "keyWithTrailingSpace  "
+set intWithLeadingSpace "   123"
+get intWithLeadingSpace
+set intWithTrailingSpace "123   "
+get intWithTrailingSpace
+set doubleLeading "   3.14"
+get doubleLeading
+set doubleTrailing "3.14   "
+get doubleTrailing
+set doubleBoth "   3.14   "
+get doubleBoth
+set doubleInvalid "3.14.15"
+set stringWithNewline "Line1\nLine2"
+get stringWithNewline
+set stringWithTab "Tab\tSeparated"
+get stringWithTab
+set stringWithBackslash "Back\\slash"
+get stringWithBackslash
+set intValue 10
+set doubleValue 10.5
+set stringValue "hello world"
+plus intValue " 123.456"
+plus doubleValue "123" 
+plus stringValue "123" 
+plus stringValue "123.456"
+plus stringValue "non-numeric" 

@@ -1,0 +1,22 @@
+cmd> set first "ankle"
+
+cmd> set second "coup"
+
+cmd> set third "blat"
+
+cmd> plus first "t"
+
+cmd> plus second "on"
+
+cmd> plus third "ant"
+
+cmd> get first
+"anklet"
+
+cmd> get second
+"coupon"
+
+cmd> get third
+"blatant"
+
+cmd> quit

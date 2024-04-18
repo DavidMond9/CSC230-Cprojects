@@ -1,0 +1,8 @@
+set a "word"
+plus a -5
+get a
+plus a 0.1
+get a
+set b -1
+plus b "word"
+quit

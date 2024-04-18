@@ -1,0 +1,8 @@
+set v1 "red"
+set v2 "green"
+set v3 "blue"
+size
+get v3
+get v2
+get v1
+quit

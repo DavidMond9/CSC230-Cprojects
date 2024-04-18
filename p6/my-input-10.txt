@@ -1,0 +1,18 @@
+set pi       3.14159     
+plus pi 0.00001
+get pi
+set e 2.7  18  28  
+plus e -0.00001
+get e
+plus e   "hi"
+set 1 0.5
+set l 5.01
+plus l   2.0
+plus l 1
+plus l 1"test"
+plus l +test
+set q 5
+plus q 9test
+plus q +5.0  
+plus q -nope
+quit

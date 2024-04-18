@@ -1,0 +1,10 @@
+size
+get nonexisting
+set x 100
+set y "yvalue"
+set z 3.14
+size
+get x
+get y
+get z
+quit

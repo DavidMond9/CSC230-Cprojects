@@ -1,0 +1,12 @@
+cmd> set x "test"
+
+cmd> get y
+invalid
+
+cmd> get x extra garbage
+invalid
+
+cmd> set az 1
+invalid
+
+cmd> quit

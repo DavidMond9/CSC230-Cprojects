@@ -1,0 +1,7 @@
+set a -notanumber
+set b 1e999
+set c -1e-999
+get a
+get b
+get c
+quit

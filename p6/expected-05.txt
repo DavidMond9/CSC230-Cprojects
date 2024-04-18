@@ -1,0 +1,19 @@
+cmd> set v1 "red"
+
+cmd> set v2 "green"
+
+cmd> set v3 "blue"
+
+cmd> size
+3
+
+cmd> get v3
+"blue"
+
+cmd> get v2
+"green"
+
+cmd> get v1
+"red"
+
+cmd> quit

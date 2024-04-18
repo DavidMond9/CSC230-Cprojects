@@ -1,0 +1,351 @@
+set nwlrb -17
+set bmqbh 56
+set cdarz -91
+set owkky -19
+set hiddq 59
+set scdxr 46
+set jmowf -1
+set rxsjy 20
+set bldbe 50
+set fsarc 62
+set bynec 55
+set dyggx -67
+set xpklo -38
+set relln 77
+set mpapq -52
+set fwkho 87
+set pkmco -30
+set qhnwn -56
+set kuewh 58
+set sqmgb 61
+set buqcl -28
+set jjivs 76
+set wmdkq -26
+set tbxix 87
+set mvtrr 81
+set bljpt 98
+set nsnfw 83
+set zqfjm 83
+set afadr 15
+set rwsof 34
+set sbcnu 89
+set vqhff 48
+set bsaqx -61
+set wpqca 48
+set cehch -71
+set zvfrk 99
+set mlnoz -7
+set jkpqp -22
+set xrjxk -32
+set itzyx 93
+set acbhh 90
+set kicqc -78
+set oendt 76
+set omfgd -99
+set wdwfc 50
+set gpxiq 75
+set vkuyt 88
+set dlcgd 70
+set ewhta -82
+set cioho -4
+set rdtqk -20
+set vwcsg -60
+set spqoq -79
+set msboa 4
+set guwnn -74
+set yqxnz 52
+set lgdgw 1
+set pbtrw 59
+set blnsa -16
+set deugu 66
+set umoqc -57
+set drube -27
+set tokyx -36
+set hoach -18
+set wdvmx -80
+set xrdry -7
+set xlmnd -70
+set qtukw -36
+set agmle 21
+set juukw -2
+set cibxu -94
+set bumen -39
+set meyat -29
+set drmyd 83
+set iajxl -38
+set oghiq 71
+set fmzhl 57
+set vihjo -50
+set uvsuy 40
+set oypay 25
+set ulyei -4
+set muote -81
+set hzrii 66
+set cfskp 17
+set ggkbb 23
+set ipzzr 42
+set zucxa -82
+set mludf 74
+set ykgru -49
+set owzgi 3
+set ooobp 40
+set pleql -6
+set wphap 76
+set jnadq -97
+set hdcnv 26
+set wdtxj 46
+set bmypp -54
+set phaux 57
+set nspus -91
+set gdhii 17
+get iajxl
+get mvtrr
+get nwlrb
+get oghiq
+get fwkho
+get mludf
+get xlmnd
+get cdarz
+get ooobp
+get zqfjm
+get nsnfw
+get sbcnu
+get dyggx
+get wpqca
+get bmypp
+get yqxnz
+get owzgi
+get nspus
+get msboa
+get tbxix
+get wdvmx
+get xrjxk
+get sqmgb
+get bldbe
+get juukw
+get drube
+get kicqc
+get agmle
+get ykgru
+get wmdkq
+get qhnwn
+get vihjo
+get bynec
+get oypay
+get pleql
+get oendt
+get wdwfc
+get hzrii
+get wdtxj
+get meyat
+get tokyx
+get fsarc
+get omfgd
+get mlnoz
+get itzyx
+get wphap
+get zvfrk
+get zucxa
+get xrdry
+get rdtqk
+get kuewh
+get rwsof
+get jmowf
+get vqhff
+get acbhh
+get hiddq
+get dlcgd
+get jkpqp
+get relln
+get bljpt
+get vkuyt
+get xpklo
+get gdhii
+get bsaqx
+get hoach
+get cehch
+get gpxiq
+get uvsuy
+get cioho
+get hdcnv
+get ewhta
+get drmyd
+get ggkbb
+get phaux
+get bmqbh
+get ipzzr
+get jjivs
+get qtukw
+get spqoq
+get guwnn
+get pkmco
+get blnsa
+get mpapq
+get owkky
+get deugu
+get afadr
+get umoqc
+get bumen
+get lgdgw
+get cibxu
+get ulyei
+get jnadq
+get muote
+get fmzhl
+get vwcsg
+get cfskp
+get scdxr
+get pbtrw
+get buqcl
+get rxsjy
+set hdcnv 45
+set jmowf 67
+set zucxa -9
+set kuewh 53
+set pkmco -58
+set mpapq 20
+set vkuyt -73
+set afadr 55
+set agmle -25
+set wdtxj 11
+set fwkho 6
+set hiddq -74
+set ggkbb 26
+set zvfrk -15
+set sqmgb -47
+set dlcgd 60
+set phaux -9
+set wpqca -62
+set kicqc -2
+set gpxiq -19
+set owkky 32
+set vihjo -2
+set jkpqp 57
+set uvsuy -16
+set vwcsg -73
+set oghiq -55
+set scdxr -1
+set rdtqk 78
+set hzrii 53
+set rwsof -55
+set wmdkq -82
+set oendt -2
+set drmyd 62
+set umoqc 10
+set guwnn -100
+set hoach 55
+set wphap -71
+set tbxix -73
+set bmqbh 9
+set bldbe -45
+set juukw -12
+set ykgru 65
+set cioho -19
+set tokyx -87
+set oypay 100
+set zqfjm -16
+set bmypp 73
+set msboa -60
+set rxsjy -28
+set ulyei -29
+get wdvmx
+get guwnn
+get jjivs
+get pkmco
+get cdarz
+get mvtrr
+get nsnfw
+get vihjo
+get xrjxk
+get hoach
+get rxsjy
+get kuewh
+get fsarc
+get jnadq
+get vqhff
+get nspus
+get juukw
+get yqxnz
+get ooobp
+get zvfrk
+get phaux
+get ewhta
+get wpqca
+get mlnoz
+get uvsuy
+get ykgru
+get bldbe
+get qtukw
+get oendt
+get lgdgw
+get itzyx
+get zucxa
+get rwsof
+get meyat
+get wdtxj
+get mpapq
+get dlcgd
+get afadr
+get blnsa
+get xrdry
+get drmyd
+get relln
+get drube
+get buqcl
+get sqmgb
+get fmzhl
+get ggkbb
+get dyggx
+get cioho
+get zqfjm
+get qhnwn
+get wdwfc
+get ulyei
+get sbcnu
+get ipzzr
+get deugu
+get muote
+get tbxix
+get wmdkq
+get mludf
+get xpklo
+get bsaqx
+get bynec
+get vkuyt
+get omfgd
+get iajxl
+get fwkho
+get cfskp
+get hiddq
+get wphap
+get tokyx
+get jmowf
+get scdxr
+get umoqc
+get xlmnd
+get hdcnv
+get agmle
+get gpxiq
+get vwcsg
+get bmypp
+get acbhh
+get gdhii
+get oypay
+get nwlrb
+get cibxu
+get owkky
+get cehch
+get bmqbh
+get kicqc
+get hzrii
+get pleql
+get owzgi
+get bumen
+get bljpt
+get rdtqk
+get oghiq
+get pbtrw
+get spqoq
+get jkpqp
+get msboa
+quit

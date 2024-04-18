@@ -1,0 +1,3 @@
+set specialKey!@#$%^&*()_+ "specialValue!@#$%^&*()_+"
+get specialKey!@#$%^&*()_+
+quit

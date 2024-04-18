@@ -1,0 +1,8 @@
+set x "test"
+remove y
+get x
+plus x 10
+get x
+remove x
+remove x
+quit

@@ -1,0 +1,16 @@
+cmd> set red 3.1
+
+cmd> set green 4.2
+
+cmd> set blue 5.3
+
+cmd> get red
+3.100000
+
+cmd> get green
+4.200000
+
+cmd> get blue
+5.300000
+
+cmd> quit

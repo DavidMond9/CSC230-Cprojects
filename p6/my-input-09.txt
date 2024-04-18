@@ -1,0 +1,6 @@
+set intmax 2147483647
+set intmin -2147483648
+plus intmax 1
+plus intmin -1
+get   intmax
+get intmin

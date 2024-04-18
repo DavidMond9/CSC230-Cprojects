@@ -1,0 +1,6 @@
+cmd> set x 10
+
+cmd> get x
+10
+
+cmd> 

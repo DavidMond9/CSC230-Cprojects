@@ -1,0 +1,901 @@
+cmd> set nwlrb -17
+
+cmd> set bmqbh 56
+
+cmd> set cdarz -91
+
+cmd> set owkky -19
+
+cmd> set hiddq 59
+
+cmd> set scdxr 46
+
+cmd> set jmowf -1
+
+cmd> set rxsjy 20
+
+cmd> set bldbe 50
+
+cmd> set fsarc 62
+
+cmd> set bynec 55
+
+cmd> set dyggx -67
+
+cmd> set xpklo -38
+
+cmd> set relln 77
+
+cmd> set mpapq -52
+
+cmd> set fwkho 87
+
+cmd> set pkmco -30
+
+cmd> set qhnwn -56
+
+cmd> set kuewh 58
+
+cmd> set sqmgb 61
+
+cmd> set buqcl -28
+
+cmd> set jjivs 76
+
+cmd> set wmdkq -26
+
+cmd> set tbxix 87
+
+cmd> set mvtrr 81
+
+cmd> set bljpt 98
+
+cmd> set nsnfw 83
+
+cmd> set zqfjm 83
+
+cmd> set afadr 15
+
+cmd> set rwsof 34
+
+cmd> set sbcnu 89
+
+cmd> set vqhff 48
+
+cmd> set bsaqx -61
+
+cmd> set wpqca 48
+
+cmd> set cehch -71
+
+cmd> set zvfrk 99
+
+cmd> set mlnoz -7
+
+cmd> set jkpqp -22
+
+cmd> set xrjxk -32
+
+cmd> set itzyx 93
+
+cmd> set acbhh 90
+
+cmd> set kicqc -78
+
+cmd> set oendt 76
+
+cmd> set omfgd -99
+
+cmd> set wdwfc 50
+
+cmd> set gpxiq 75
+
+cmd> set vkuyt 88
+
+cmd> set dlcgd 70
+
+cmd> set ewhta -82
+
+cmd> set cioho -4
+
+cmd> set rdtqk -20
+
+cmd> set vwcsg -60
+
+cmd> set spqoq -79
+
+cmd> set msboa 4
+
+cmd> set guwnn -74
+
+cmd> set yqxnz 52
+
+cmd> set lgdgw 1
+
+cmd> set pbtrw 59
+
+cmd> set blnsa -16
+
+cmd> set deugu 66
+
+cmd> set umoqc -57
+
+cmd> set drube -27
+
+cmd> set tokyx -36
+
+cmd> set hoach -18
+
+cmd> set wdvmx -80
+
+cmd> set xrdry -7
+
+cmd> set xlmnd -70
+
+cmd> set qtukw -36
+
+cmd> set agmle 21
+
+cmd> set juukw -2
+
+cmd> set cibxu -94
+
+cmd> set bumen -39
+
+cmd> set meyat -29
+
+cmd> set drmyd 83
+
+cmd> set iajxl -38
+
+cmd> set oghiq 71
+
+cmd> set fmzhl 57
+
+cmd> set vihjo -50
+
+cmd> set uvsuy 40
+
+cmd> set oypay 25
+
+cmd> set ulyei -4
+
+cmd> set muote -81
+
+cmd> set hzrii 66
+
+cmd> set cfskp 17
+
+cmd> set ggkbb 23
+
+cmd> set ipzzr 42
+
+cmd> set zucxa -82
+
+cmd> set mludf 74
+
+cmd> set ykgru -49
+
+cmd> set owzgi 3
+
+cmd> set ooobp 40
+
+cmd> set pleql -6
+
+cmd> set wphap 76
+
+cmd> set jnadq -97
+
+cmd> set hdcnv 26
+
+cmd> set wdtxj 46
+
+cmd> set bmypp -54
+
+cmd> set phaux 57
+
+cmd> set nspus -91
+
+cmd> set gdhii 17
+
+cmd> get iajxl
+-38
+
+cmd> get mvtrr
+81
+
+cmd> get nwlrb
+-17
+
+cmd> get oghiq
+71
+
+cmd> get fwkho
+87
+
+cmd> get mludf
+74
+
+cmd> get xlmnd
+-70
+
+cmd> get cdarz
+-91
+
+cmd> get ooobp
+40
+
+cmd> get zqfjm
+83
+
+cmd> get nsnfw
+83
+
+cmd> get sbcnu
+89
+
+cmd> get dyggx
+-67
+
+cmd> get wpqca
+48
+
+cmd> get bmypp
+-54
+
+cmd> get yqxnz
+52
+
+cmd> get owzgi
+3
+
+cmd> get nspus
+-91
+
+cmd> get msboa
+4
+
+cmd> get tbxix
+87
+
+cmd> get wdvmx
+-80
+
+cmd> get xrjxk
+-32
+
+cmd> get sqmgb
+61
+
+cmd> get bldbe
+50
+
+cmd> get juukw
+-2
+
+cmd> get drube
+-27
+
+cmd> get kicqc
+-78
+
+cmd> get agmle
+21
+
+cmd> get ykgru
+-49
+
+cmd> get wmdkq
+-26
+
+cmd> get qhnwn
+-56
+
+cmd> get vihjo
+-50
+
+cmd> get bynec
+55
+
+cmd> get oypay
+25
+
+cmd> get pleql
+-6
+
+cmd> get oendt
+76
+
+cmd> get wdwfc
+50
+
+cmd> get hzrii
+66
+
+cmd> get wdtxj
+46
+
+cmd> get meyat
+-29
+
+cmd> get tokyx
+-36
+
+cmd> get fsarc
+62
+
+cmd> get omfgd
+-99
+
+cmd> get mlnoz
+-7
+
+cmd> get itzyx
+93
+
+cmd> get wphap
+76
+
+cmd> get zvfrk
+99
+
+cmd> get zucxa
+-82
+
+cmd> get xrdry
+-7
+
+cmd> get rdtqk
+-20
+
+cmd> get kuewh
+58
+
+cmd> get rwsof
+34
+
+cmd> get jmowf
+-1
+
+cmd> get vqhff
+48
+
+cmd> get acbhh
+90
+
+cmd> get hiddq
+59
+
+cmd> get dlcgd
+70
+
+cmd> get jkpqp
+-22
+
+cmd> get relln
+77
+
+cmd> get bljpt
+98
+
+cmd> get vkuyt
+88
+
+cmd> get xpklo
+-38
+
+cmd> get gdhii
+17
+
+cmd> get bsaqx
+-61
+
+cmd> get hoach
+-18
+
+cmd> get cehch
+-71
+
+cmd> get gpxiq
+75
+
+cmd> get uvsuy
+40
+
+cmd> get cioho
+-4
+
+cmd> get hdcnv
+26
+
+cmd> get ewhta
+-82
+
+cmd> get drmyd
+83
+
+cmd> get ggkbb
+23
+
+cmd> get phaux
+57
+
+cmd> get bmqbh
+56
+
+cmd> get ipzzr
+42
+
+cmd> get jjivs
+76
+
+cmd> get qtukw
+-36
+
+cmd> get spqoq
+-79
+
+cmd> get guwnn
+-74
+
+cmd> get pkmco
+-30
+
+cmd> get blnsa
+-16
+
+cmd> get mpapq
+-52
+
+cmd> get owkky
+-19
+
+cmd> get deugu
+66
+
+cmd> get afadr
+15
+
+cmd> get umoqc
+-57
+
+cmd> get bumen
+-39
+
+cmd> get lgdgw
+1
+
+cmd> get cibxu
+-94
+
+cmd> get ulyei
+-4
+
+cmd> get jnadq
+-97
+
+cmd> get muote
+-81
+
+cmd> get fmzhl
+57
+
+cmd> get vwcsg
+-60
+
+cmd> get cfskp
+17
+
+cmd> get scdxr
+46
+
+cmd> get pbtrw
+59
+
+cmd> get buqcl
+-28
+
+cmd> get rxsjy
+20
+
+cmd> set hdcnv 45
+
+cmd> set jmowf 67
+
+cmd> set zucxa -9
+
+cmd> set kuewh 53
+
+cmd> set pkmco -58
+
+cmd> set mpapq 20
+
+cmd> set vkuyt -73
+
+cmd> set afadr 55
+
+cmd> set agmle -25
+
+cmd> set wdtxj 11
+
+cmd> set fwkho 6
+
+cmd> set hiddq -74
+
+cmd> set ggkbb 26
+
+cmd> set zvfrk -15
+
+cmd> set sqmgb -47
+
+cmd> set dlcgd 60
+
+cmd> set phaux -9
+
+cmd> set wpqca -62
+
+cmd> set kicqc -2
+
+cmd> set gpxiq -19
+
+cmd> set owkky 32
+
+cmd> set vihjo -2
+
+cmd> set jkpqp 57
+
+cmd> set uvsuy -16
+
+cmd> set vwcsg -73
+
+cmd> set oghiq -55
+
+cmd> set scdxr -1
+
+cmd> set rdtqk 78
+
+cmd> set hzrii 53
+
+cmd> set rwsof -55
+
+cmd> set wmdkq -82
+
+cmd> set oendt -2
+
+cmd> set drmyd 62
+
+cmd> set umoqc 10
+
+cmd> set guwnn -100
+
+cmd> set hoach 55
+
+cmd> set wphap -71
+
+cmd> set tbxix -73
+
+cmd> set bmqbh 9
+
+cmd> set bldbe -45
+
+cmd> set juukw -12
+
+cmd> set ykgru 65
+
+cmd> set cioho -19
+
+cmd> set tokyx -87
+
+cmd> set oypay 100
+
+cmd> set zqfjm -16
+
+cmd> set bmypp 73
+
+cmd> set msboa -60
+
+cmd> set rxsjy -28
+
+cmd> set ulyei -29
+
+cmd> get wdvmx
+-80
+
+cmd> get guwnn
+-100
+
+cmd> get jjivs
+76
+
+cmd> get pkmco
+-58
+
+cmd> get cdarz
+-91
+
+cmd> get mvtrr
+81
+
+cmd> get nsnfw
+83
+
+cmd> get vihjo
+-2
+
+cmd> get xrjxk
+-32
+
+cmd> get hoach
+55
+
+cmd> get rxsjy
+-28
+
+cmd> get kuewh
+53
+
+cmd> get fsarc
+62
+
+cmd> get jnadq
+-97
+
+cmd> get vqhff
+48
+
+cmd> get nspus
+-91
+
+cmd> get juukw
+-12
+
+cmd> get yqxnz
+52
+
+cmd> get ooobp
+40
+
+cmd> get zvfrk
+-15
+
+cmd> get phaux
+-9
+
+cmd> get ewhta
+-82
+
+cmd> get wpqca
+-62
+
+cmd> get mlnoz
+-7
+
+cmd> get uvsuy
+-16
+
+cmd> get ykgru
+65
+
+cmd> get bldbe
+-45
+
+cmd> get qtukw
+-36
+
+cmd> get oendt
+-2
+
+cmd> get lgdgw
+1
+
+cmd> get itzyx
+93
+
+cmd> get zucxa
+-9
+
+cmd> get rwsof
+-55
+
+cmd> get meyat
+-29
+
+cmd> get wdtxj
+11
+
+cmd> get mpapq
+20
+
+cmd> get dlcgd
+60
+
+cmd> get afadr
+55
+
+cmd> get blnsa
+-16
+
+cmd> get xrdry
+-7
+
+cmd> get drmyd
+62
+
+cmd> get relln
+77
+
+cmd> get drube
+-27
+
+cmd> get buqcl
+-28
+
+cmd> get sqmgb
+-47
+
+cmd> get fmzhl
+57
+
+cmd> get ggkbb
+26
+
+cmd> get dyggx
+-67
+
+cmd> get cioho
+-19
+
+cmd> get zqfjm
+-16
+
+cmd> get qhnwn
+-56
+
+cmd> get wdwfc
+50
+
+cmd> get ulyei
+-29
+
+cmd> get sbcnu
+89
+
+cmd> get ipzzr
+42
+
+cmd> get deugu
+66
+
+cmd> get muote
+-81
+
+cmd> get tbxix
+-73
+
+cmd> get wmdkq
+-82
+
+cmd> get mludf
+74
+
+cmd> get xpklo
+-38
+
+cmd> get bsaqx
+-61
+
+cmd> get bynec
+55
+
+cmd> get vkuyt
+-73
+
+cmd> get omfgd
+-99
+
+cmd> get iajxl
+-38
+
+cmd> get fwkho
+6
+
+cmd> get cfskp
+17
+
+cmd> get hiddq
+-74
+
+cmd> get wphap
+-71
+
+cmd> get tokyx
+-87
+
+cmd> get jmowf
+67
+
+cmd> get scdxr
+-1
+
+cmd> get umoqc
+10
+
+cmd> get xlmnd
+-70
+
+cmd> get hdcnv
+45
+
+cmd> get agmle
+-25
+
+cmd> get gpxiq
+-19
+
+cmd> get vwcsg
+-73
+
+cmd> get bmypp
+73
+
+cmd> get acbhh
+90
+
+cmd> get gdhii
+17
+
+cmd> get oypay
+100
+
+cmd> get nwlrb
+-17
+
+cmd> get cibxu
+-94
+
+cmd> get owkky
+32
+
+cmd> get cehch
+-71
+
+cmd> get bmqbh
+9
+
+cmd> get kicqc
+-2
+
+cmd> get hzrii
+53
+
+cmd> get pleql
+-6
+
+cmd> get owzgi
+3
+
+cmd> get bumen
+-39
+
+cmd> get bljpt
+98
+
+cmd> get rdtqk
+78
+
+cmd> get oghiq
+-55
+
+cmd> get pbtrw
+59
+
+cmd> get spqoq
+-79
+
+cmd> get jkpqp
+57
+
+cmd> get msboa
+-60
+
+cmd> quit

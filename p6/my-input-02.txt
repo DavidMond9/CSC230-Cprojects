@@ -1,0 +1,8 @@
+set a 10
+set b\n20
+set \0 30
+get a
+get b
+get \0
+get
+quit

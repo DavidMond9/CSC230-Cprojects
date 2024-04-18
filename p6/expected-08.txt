@@ -1,0 +1,28 @@
+cmd> set score 35
+
+cmd> set name "Will"
+
+cmd> set temperature 72.3
+
+cmd> size
+3
+
+cmd> get score
+35
+
+cmd> plus score 2
+
+cmd> get score
+37
+
+cmd> plus name "iam"
+
+cmd> get name
+"William"
+
+cmd> remove temperature
+
+cmd> size
+2
+
+cmd> quit
